@@ -4,9 +4,9 @@ This project uses OpenAI's DALL·E API to generate images from text descriptions
 
 🚀 Features
 
--Convert text prompts into AI-generated images
--Save images locally
--Simple CLI-based user input
+> Convert text prompts into AI-generated images
+> Save images locally
+> Simple CLI-based user input
 
 🛠 Installation
 
@@ -25,8 +25,8 @@ pip install openai python-dotenv
 
 3️⃣ Set Up API Key
 
--Create a .env file in the project directory
--Add your OpenAI API Key:
+> Create a .env file in the project directory
+> Add your OpenAI API Key:
 
 ```plaintext
 
